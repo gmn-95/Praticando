@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1614899944 source:d:\meus documentos\Área de trabalho\fatec - aulas\linguagem de programação - c++\aula4\main.cpp
-	<iostream>
-	<math.h>
-	<iomanip>
-	<string>
-	<cstdlib>
-
